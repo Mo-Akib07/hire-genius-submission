@@ -33,4 +33,4 @@ We utilized Gemini not just as a chatbot, but as a deterministic logic engine:
 ---
 
 ## 📸 Screenshots
-*(Upload your screenshots to the repo and they will appear here if you link them, or just leave this section)*
+*(Screenshots are in the screenshots folder)*
